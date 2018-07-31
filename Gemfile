@@ -28,6 +28,7 @@ gem 'devise'
 gem 'devise-i18n'
 gem 'devise_invitable'
 gem 'high_voltage'
+gem 'haml-rails'
 gem 'pg'
 group :development do
   gem 'better_errors'
